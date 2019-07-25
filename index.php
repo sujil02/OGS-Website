@@ -1,1 +1,1 @@
-<?php header( 'https://pure-meadow-42442.herokuapp.com: /index.html' ) ;  ?>
+<?php header( '/index.html' ) ;  ?>
